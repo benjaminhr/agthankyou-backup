@@ -10170,3 +10170,112 @@ Started GET "/assets/normalize.css" for ::1 at 2016-07-30 15:54:27 +0300
 Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 15:54:27 +0300
 Started GET "/assets/animate.css" for ::1 at 2016-07-30 15:54:27 +0300
 Started GET "/assets/application.css" for ::1 at 2016-07-30 15:54:27 +0300
+Started GET "/" for ::1 at 2016-07-30 15:59:36 +0300
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from raise_in_transactional_callbacks= at /Users/Benjaminr/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.0/lib/active_record/transactions.rb:283)
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 963ms (Views: 929.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 15:59:38 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 15:59:38 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 15:59:38 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 15:59:38 +0300
+Started GET "/" for ::1 at 2016-07-30 15:59:53 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 119ms (Views: 105.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 15:59:54 +0300
+Started GET "/" for ::1 at 2016-07-30 15:59:57 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 102ms (Views: 95.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 15:59:57 +0300
+Started GET "/" for ::1 at 2016-07-30 16:00:57 +0300
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from raise_in_transactional_callbacks= at /Users/Benjaminr/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.0/lib/active_record/transactions.rb:283)
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 1186ms (Views: 1138.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 16:00:59 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 16:00:59 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 16:00:59 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 16:00:59 +0300
+Started GET "/" for ::1 at 2016-07-30 16:01:02 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 58ms (Views: 53.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 16:01:02 +0300
+Started GET "/" for ::1 at 2016-07-30 16:01:04 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 43ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 16:01:04 +0300
+Started GET "/" for ::1 at 2016-07-30 16:01:07 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 79ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-07-30 16:01:07 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/application.css" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-07-30 16:01:08 +0300
