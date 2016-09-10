@@ -18,8 +18,12 @@ body {
     padding: 0;
 }
 
+.aaron{
+    font-size:120px;
+}
+
 #coffee-wrap {
-	margin-top:250px;
+	margin-top:100px;
 	margin-left:500px;
     width: 800px;
     height: 350px;

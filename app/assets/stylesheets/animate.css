@@ -8,6 +8,11 @@
  * Copyright (c) 2016 Daniel Eden
  */
 
+.animated.FadeIn{
+  -vendor-animation-duration: 3s;
+  -vendor-animation-delay: 2s;
+}
+
 .animated.zoomInDown{
   animation-duration: 2s;
 }

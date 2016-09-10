@@ -10279,3 +10279,1109 @@ Started GET "/assets/normalize.css" for ::1 at 2016-07-30 16:01:08 +0300
 Started GET "/assets/application.css" for ::1 at 2016-07-30 16:01:08 +0300
 Started GET "/assets/skeleton.css" for ::1 at 2016-07-30 16:01:08 +0300
 Started GET "/assets/animate.css" for ::1 at 2016-07-30 16:01:08 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:05 +0300
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from raise_in_transactional_callbacks= at /Users/Benjaminr/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.0/lib/active_record/transactions.rb:283)
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 440ms (Views: 421.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:06 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:06 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:06 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:06 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:06 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:06 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 40ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 26ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:07 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 51ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:08 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 48ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:08 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 43ms (Views: 39.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:08 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 38ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:08 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 33ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:08 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 34ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:08 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 36ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 40ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 36ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 39ms (Views: 37.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 37ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 38ms (Views: 35.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 35ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 33ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:10 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 33ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:10 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:10 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 34ms (Views: 31.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:10 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 39ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:10 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 45ms (Views: 42.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:11 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 50ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:11 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:11 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 39ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:11 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 28ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:11 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:12 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 43ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:12 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:12 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 41ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:12 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:12 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 34ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:12 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 29ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 34ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 38ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:13 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:14 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:14 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:14 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:14 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:14 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:14 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 31ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:16 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:18 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 32ms (Views: 30.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:19 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 41ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:21 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:29 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 27ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:30 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 30ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:32 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:33 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 33ms (Views: 31.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:33 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:33 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:33 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:33 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:33 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 31ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 30ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:34 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:35 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 29ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:35 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:36 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 32ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:36 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:37 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 31ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:37 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:37 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 31ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:37 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:38 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 41ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:38 +0300
+Started GET "/" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 36ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/normalize.css" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/skeleton.css" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/animate.css" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-07-30 17:49:39 +0300
+Started GET "/" for ::1 at 2016-08-20 01:17:32 +0300
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from raise_in_transactional_callbacks= at /Users/Benjaminr/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.0/lib/active_record/transactions.rb:283)
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 449ms (Views: 428.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:17:33 +0300
+Started GET "/" for ::1 at 2016-08-20 01:17:43 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 43ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:17:43 +0300
+Started GET "/" for ::1 at 2016-08-20 01:17:45 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 52ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:17:45 +0300
+Started GET "/" for ::1 at 2016-08-20 01:18:03 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 65ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/application.self-b8158b7ce8ee4d84649bf156ec9ed7dbdf4ebaedd2c86e776787410e7c99b084.css?body=1" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:18:03 +0300
+Started GET "/" for ::1 at 2016-08-20 01:18:47 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 104ms (Views: 102.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:18:47 +0300
+Started GET "/" for ::1 at 2016-08-20 01:19:32 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 49ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:19:32 +0300
+Started GET "/" for ::1 at 2016-08-20 01:20:45 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 60ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:20:46 +0300
+Started GET "/" for ::1 at 2016-08-20 01:21:17 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 38ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:21:17 +0300
+Started GET "/" for ::1 at 2016-08-20 01:21:36 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 49ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:21:36 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:21:37 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:21:37 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:21:37 +0300
+Started GET "/" for ::1 at 2016-08-20 01:21:56 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 37ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:21:56 +0300
+Started GET "/" for ::1 at 2016-08-20 01:22:12 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 36ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:22:12 +0300
+Started GET "/" for ::1 at 2016-08-20 01:22:18 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:22:18 +0300
+Started GET "/" for ::1 at 2016-08-20 01:22:36 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 41ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:22:36 +0300
+Started GET "/" for ::1 at 2016-08-20 01:22:44 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 50ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:22:44 +0300
+Started GET "/" for ::1 at 2016-08-20 01:22:54 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 41ms (Views: 32.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:22:54 +0300
+Started GET "/" for ::1 at 2016-08-20 01:23:02 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 37ms (Views: 30.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-546367f55fdb8bd5284aa51069ca4551f0db5e9f910cb1408c5783fb2e032949.css?body=1" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:23:02 +0300
+Started GET "/" for ::1 at 2016-08-20 01:23:51 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 58ms (Views: 49.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-cc81b414239143d290ad21373403432bba58df814055f8ce0e9db54d898eaa9d.css?body=1" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:23:51 +0300
+Started GET "/" for ::1 at 2016-08-20 01:23:58 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 39ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-66e0a742e9450cf9e5eebb259807d0b069ae36c9cc90070f2ec57d395602990d.css?body=1" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:23:58 +0300
+Started GET "/" for ::1 at 2016-08-20 01:24:13 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 42ms (Views: 39.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:24:13 +0300
+Started GET "/" for ::1 at 2016-08-20 01:24:29 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 47ms (Views: 40.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:24:29 +0300
+Started GET "/" for ::1 at 2016-08-20 01:24:43 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 38ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:24:43 +0300
+Started GET "/" for ::1 at 2016-08-20 01:26:48 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 60ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:26:48 +0300
+Started GET "/" for ::1 at 2016-08-20 01:26:55 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 29ms (Views: 26.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:26:56 +0300
+Started GET "/" for ::1 at 2016-08-20 01:27:47 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 42ms (Views: 33.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:27:48 +0300
+Started GET "/" for ::1 at 2016-08-20 01:28:12 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 44ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:28:12 +0300
+Started GET "/" for ::1 at 2016-08-20 01:28:19 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 44ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:28:19 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:28:20 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:28:20 +0300
+Started GET "/" for ::1 at 2016-08-20 01:28:52 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 53ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:28:52 +0300
+Started GET "/" for ::1 at 2016-08-20 01:29:28 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 29.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:29:28 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:29:28 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:29:28 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:29:28 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:29:28 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:29:29 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:29:29 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:29:29 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:29:29 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:29:29 +0300
+Started GET "/" for ::1 at 2016-08-20 01:29:47 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:29:47 +0300
+Started GET "/" for ::1 at 2016-08-20 01:29:55 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 39ms (Views: 30.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:29:55 +0300
+Started GET "/" for ::1 at 2016-08-20 01:30:15 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 42ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:30:15 +0300
+Started GET "/" for ::1 at 2016-08-20 01:30:41 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 38ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:30:41 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:30:41 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:30:41 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:30:41 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:30:41 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:30:41 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:30:42 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:30:42 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:30:42 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:30:42 +0300
+Started GET "/" for ::1 at 2016-08-20 01:30:52 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 40ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:30:52 +0300
+Started GET "/" for ::1 at 2016-08-20 01:31:00 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 27ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:31:00 +0300
+Started GET "/" for ::1 at 2016-08-20 01:31:09 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 26ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:31:09 +0300
+Started GET "/" for ::1 at 2016-08-20 01:31:10 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 26ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:31:10 +0300
+Started GET "/" for ::1 at 2016-08-20 01:31:12 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 31ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:31:12 +0300
+Started GET "/" for ::1 at 2016-08-20 01:31:13 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 27ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:31:13 +0300
+Started GET "/" for ::1 at 2016-08-20 01:31:55 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 32ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:31:55 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:31:55 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:31:55 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:31:55 +0300
+Started GET "/" for ::1 at 2016-08-20 01:32:00 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 31ms (Views: 27.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/assets/application.css" for ::1 at 2016-08-20 01:32:00 +0300
