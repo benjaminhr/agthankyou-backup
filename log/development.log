@@ -11385,3 +11385,77 @@ Started GET "/assets/normalize.css" for ::1 at 2016-08-20 01:32:00 +0300
 Started GET "/assets/skeleton.css" for ::1 at 2016-08-20 01:32:00 +0300
 Started GET "/assets/animate.css" for ::1 at 2016-08-20 01:32:00 +0300
 Started GET "/assets/application.css" for ::1 at 2016-08-20 01:32:00 +0300
+Started GET "/" for ::1 at 2016-09-10 20:10:00 +0300
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from raise_in_transactional_callbacks= at /Users/Benjaminr/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.0/lib/active_record/transactions.rb:283)
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 659ms (Views: 636.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/application.css" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-09-10 20:10:01 +0300
+Started GET "/" for ::1 at 2016-09-10 20:10:10 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/application.css" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-09-10 20:10:10 +0300
+Started GET "/" for ::1 at 2016-09-12 20:03:41 +0300
+Started GET "/" for ::1 at 2016-09-12 20:03:41 +0300
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from raise_in_transactional_callbacks= at /Users/Benjaminr/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.0/lib/active_record/transactions.rb:283)
+Processing by HomepageController#index as HTML
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (4.2ms)
+  Rendered homepage/index.html.erb within layouts/application (0.1ms)
+Started GET "/" for ::1 at 2016-09-12 20:03:41 +0300
+Processing by HomepageController#index as HTML
+Started GET "/" for ::1 at 2016-09-12 20:03:42 +0300
+Processing by HomepageController#index as HTML
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+  Rendering homepage/index.html.erb within layouts/application
+  Rendered homepage/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 1045ms (Views: 1021.6ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 328ms (Views: 324.4ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1033ms (Views: 1005.2ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 553ms (Views: 447.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-09-12 20:03:42 +0300
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2016-09-12 20:03:42 +0300
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-09-12 20:03:42 +0300
+Started GET "/assets/application.self-8912de335ae94d5d777b09f09b6023f7ceb211d8c98cacf8d49de54a3ba24abf.css?body=1" for ::1 at 2016-09-12 20:03:42 +0300
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-09-12 20:03:42 +0300
+Started GET "/assets/homepage.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-09-12 20:03:42 +0300
+Started GET "/assets/skeleton.css" for ::1 at 2016-09-12 20:03:43 +0300
+Started GET "/assets/application.css" for ::1 at 2016-09-12 20:03:43 +0300
+Started GET "/assets/normalize.css" for ::1 at 2016-09-12 20:03:43 +0300
+Started GET "/assets/animate.css" for ::1 at 2016-09-12 20:03:43 +0300
